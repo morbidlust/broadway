@@ -3,7 +3,7 @@ body {
   font-family: Helvetica;
 }
 
-.header {
+.header, #nyBanner {
   background-image: url("../images/the-flatiron-building.png");
 }
 
@@ -27,17 +27,12 @@ h2 {
   font-size: 32px;
 }
 
-h3 {
+h3, #nyBanner {
   font-size: 23px;
 }
 
 p {
   font-size: 14px;
-}
-
-#nyBanner {
-  font-size: 23px;
-  background-image: url("../images/the-flatiron-building.png");
 }
 
 .footer {
