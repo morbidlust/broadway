@@ -11,7 +11,7 @@ h1, h2, h3, #nyBanner {
   font-weight: bold;
 }
 
-h1, #nav, #nyBanner, .footer {
+h1, a, #nyBanner, .footer {
   color: white;
 }
 
@@ -19,7 +19,7 @@ h1  {
   font-size: 70px;
 }
 
-#nav {
+.header a {
   font-size: 18px;
 }
 
