@@ -43,4 +43,5 @@ p {
 .footer {
   font-size: 11px;
   background-color: dimgray;
+  text-align: left;
 }
